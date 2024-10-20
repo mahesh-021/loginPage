@@ -1,0 +1,98 @@
+.logo {
+  width: 80px;
+  height: 60px;
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+  padding: 10px;
+}
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+  padding: 10px;
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+  padding: 10px;
+}
+#navItem4 {
+  color: #323f4b;
+  font-family: "Roboto";
+  padding: 10px;
+}
+.banner-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 45px;
+  font-weight: 300;
+}
+.banner-caption {
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: 300;
+}
+.login-button {
+  color: white;
+  background-color: black;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+.signup-button {
+  color: black;
+  background-color: transparent;
+  width: 130px;
+  height: 45px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 8px;
+}
+.bg-image {
+  height: 320px;
+  width: 500px;
+}
+
+.card {
+  text-align: center;
+  background-color: white;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e5eaf4;
+  border-radius: 16px;
+}
+.card-title {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: 500;
+}
+.card-description {
+  color: #7b8794;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.features {
+  padding: 40px 0;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.features .feature {
+  margin-bottom: 20px;
+}
+
+.features h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.features p {
+  font-size: 16px;
+}
